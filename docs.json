@@ -16,7 +16,10 @@
           {
             "group": "Getting started",
             "pages": [
-              "index"
+              "index",
+              "our-vision",
+              "how-it-works",
+              "bounty-platform"
             ]
           }
         ]
@@ -50,8 +53,8 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Home",
+      "href": "https://orbitcurve.com"
     }
   },
   "contextual": {
