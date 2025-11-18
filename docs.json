@@ -14,7 +14,7 @@
         "tab": "Docs",
         "groups": [
           {
-            "group": "About",
+            "group": "Getting started",
             "pages": [
               "index"
             ]
