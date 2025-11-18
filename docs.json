@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "OrbitCurve Docs",
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
@@ -71,14 +71,14 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Website",
+          "href": "https://orbitcurve.com",
+          "icon": "globe"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "GitHub",
+          "href": "https://github.com/OrbitCurve",
+          "icon": "github"
         }
       ]
     }
@@ -114,9 +114,10 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "website": "https://orbitcurve.com",
+      "x": "https://x.com/OrbitCurveSec",
+      "github": "https://github.com/OrbitCurve",
+      "linkedin": "https://www.linkedin.com/company/orbitcurve/"
     }
   }
 }
