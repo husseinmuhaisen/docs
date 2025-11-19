@@ -17,7 +17,6 @@
             "group": "Getting started",
             "pages": [
               "index",
-              "our-vision",
               "how-it-works",
               "bounty-platform"
             ]
@@ -59,15 +58,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
